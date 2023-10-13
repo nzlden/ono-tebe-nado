@@ -17,7 +17,7 @@
 
 .header__links-list {
     display: flex;
-    gap: 10px;
+    gap: 32px;
     list-style: circle;
 }
 
