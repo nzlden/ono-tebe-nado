@@ -250,7 +250,7 @@
     display: grid;
     grid-template-columns: auto 1fr;
     padding-left: 95px;
-    margin: 182px 50px 186px;
+    margin: 182px 50px 183px;
     gap: 120px;
 }
 
@@ -279,7 +279,7 @@
 
 .about__title {
     margin-top: 100px;
-    margin-bottom: 75px;
+    margin-bottom: 70px;
     color: #000;
     font-size: 40px;
     font-style: normal;
